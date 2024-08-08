@@ -1,0 +1,25 @@
+body{
+  background-image: url(images/Background-White.jpg);
+}
+h3{
+  text-align: center;
+}
+.board {
+  margin: auto;
+  margin-top: 4%;
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+.background{
+  background-color: black;
+  justify-content: center;
+  text-align: center;
+  font-size: large;
+  width: 20%;
+  margin: auto;
+}
+.background h3{
+  color: white;
+}
