@@ -1,25 +1,137 @@
-body{
-  background-image: url(images/Background-White.jpg);
+@media(max-width: 576px){
+  body{
+    background-image: url(images/Background-White.jpg);
+  }
+  h3{
+    text-align: center;
+  }
+  .board {
+    margin: auto;
+    margin-top: 30%;
+    margin-right: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+    position: relative;
+  }
+  .background{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    width: 20%;
+    margin: auto;
+  }
+  .background h3{
+    color: white;
+  }
 }
-h3{
-  text-align: center;
+@media(min-width: 577px){
+  body{
+    background-image: url(images/Background-White.jpg);
+  }
+  h3{
+    text-align: center;
+  }
+  .board {
+    margin: auto;
+    margin-top: 4%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+  .background{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    width: 20%;
+    margin: auto;
+  }
+  .background h3{
+    color: white;
+  }
 }
-.board {
-  margin: auto;
-  margin-top: 4%;
-  display: flex;
-  flex-wrap: wrap;
-  width: 400px;
-  height: 300px;
+@media(min-width: 768px){
+  body{
+    background-image: url(images/Background-White.jpg);
+  }
+  h3{
+    text-align: center;
+  }
+  .board {
+    margin: auto;
+    margin-top: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+  .background{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    width: 20%;
+    margin: auto;
+  }
+  .background h3{
+    color: white;
+  }
 }
-.background{
-  background-color: black;
-  justify-content: center;
-  text-align: center;
-  font-size: large;
-  width: 20%;
-  margin: auto;
+@media(min-width: 992px){
+  body{
+    background-image: url(images/Background-White.jpg);
+  }
+  h3{
+    text-align: center;
+  }
+  .board {
+    margin: auto;
+    margin-top: 4%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+  .background{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    width: 20%;
+    margin: auto;
+  }
+  .background h3{
+    color: white;
+  }
 }
-.background h3{
-  color: white;
+@media(min-width: 1200px){
+  body{
+    background-image: url(images/Background-White.jpg);
+  }
+  h3{
+    text-align: center;
+  }
+  .board {
+    margin: auto;
+    margin-top: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+  .background{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    width: 20%;
+    margin: auto;
+  }
+  .background h3{
+    color: white;
+  }
 }
