@@ -1,4 +1,4 @@
-@media(max-width: 576px){
+@media(min-width: 200px){
   body{
     background-image: url(images/Background-White.jpg);
   }
@@ -63,7 +63,7 @@
   }
   .board {
     margin: auto;
-    margin-top: 5%;
+    margin-top: 10%;
     display: flex;
     flex-wrap: wrap;
     width: 400px;
@@ -74,8 +74,8 @@
     background-color: black;
     justify-content: center;
     text-align: center;
-    font-size: large;
-    width: 50%;
+    font-size: x-large;
+    width: 20%;
     margin: auto;
   }
   .background h3{
