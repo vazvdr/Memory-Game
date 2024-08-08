@@ -11,9 +11,9 @@
     margin-right: 5%;
     display: flex;
     flex-wrap: wrap;
-    width: 480px;
+    width: 400px;
     height: 300px;
-    position: relative;
+    justify-content: center;
   }
   .background{
     background-color: black;
@@ -68,6 +68,7 @@
     flex-wrap: wrap;
     width: 400px;
     height: 300px;
+    justify-content: center;
   }
   .background{
     background-color: black;
@@ -95,6 +96,7 @@
     flex-wrap: wrap;
     width: 400px;
     height: 300px;
+    justify-content: center;
   }
   .background{
     background-color: black;
@@ -122,6 +124,7 @@
     flex-wrap: wrap;
     width: 400px;
     height: 300px;
+    justify-content: center;
   }
   .background{
     background-color: black;
