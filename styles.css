@@ -63,7 +63,7 @@
   }
   .board {
     margin: auto;
-    margin-top: 30%;
+    margin-top: 15%;
     display: flex;
     flex-wrap: wrap;
     width: 400px;
