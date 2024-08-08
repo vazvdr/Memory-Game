@@ -1,5 +1,7 @@
 @media(min-width: 80px){
-  
+  body{
+    background-image: url(images/Background-White.jpg);
+  }  
   h3{
     text-align: center;
   }
