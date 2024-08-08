@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
     //mostrar placar
     resultView.textContent = 'Pares Encontrados: '+cardsWon.length
     if  (cardsWon.length === cards.length/2) {
-      resultView.textContent = 'Parabéns! Você conseguiu encontrar todas as cartas'
+      resultView.textContent = 'Parabéns! Você conseguiu encontrar todas as cartas!'
     }
   }
 

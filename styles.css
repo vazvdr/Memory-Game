@@ -7,20 +7,19 @@
   }
   .board {
     margin: auto;
-    margin-top: 30%;
-    margin-right: 5%;
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     width: 400px;
     height: 300px;
     justify-content: center;
+    align-items: center;
   }
   .background{
     background-color: black;
     justify-content: center;
     text-align: center;
     font-size: large;
-    width: 20%;
+    width: 50%;
     margin: auto;
   }
   .background h3{
