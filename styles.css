@@ -1,15 +1,14 @@
 @media(min-width: 80px){
   body{
-    background-image: url(images/punk-background.jpg);
+    background-image: url(images/punk-background-small.jpg);
   }  
   h3{
     text-align: center;
   }
   .board {
-    margin: auto;
     display: block;
     flex-wrap: wrap;
-    width: 50%;
+    width: 100%;
     justify-content: center;
     align-items: center;
   }
@@ -23,7 +22,7 @@
   }
   .background h3{
     color: white;
-    font-size: x-large;
+    font-size: medium;
   }
 }
 @media(min-width: 577px){
