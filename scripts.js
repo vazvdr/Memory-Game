@@ -18,10 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/metallica.png'
     },
     {
-      name: 'sepultura',
-      img: 'images/sepultura.jpg'
-    },
-    {
       name: 'slayer',
       img: 'images/slayer.jpg'
     },
@@ -44,10 +40,6 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'metallica',
       img: 'images/metallica.png'
-    },
-    {
-      name: 'sepultura',
-      img: 'images/sepultura.jpg'
     },
     {
       name: 'slayer',
