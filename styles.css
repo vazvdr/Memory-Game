@@ -4,6 +4,7 @@
     background-size: cover;
     display: block;
     background-position: center;
+    size: 150vh;
   }  
   h3{
     text-align: center;
