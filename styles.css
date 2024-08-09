@@ -1,6 +1,7 @@
 @media(max-width: 576px){
   body{
     background-image: url(images/punk-background-small.jpg);
+    background-size: cover;
   }  
   h3{
     text-align: center;
