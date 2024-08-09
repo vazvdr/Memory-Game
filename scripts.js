@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'testament',
-      img: 'images/Testament.jpg'
+      img: 'images/testament.jpg'
     },
     {
       name: 'anthrax',
