@@ -7,11 +7,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'kreator',
-      img: 'images/kreator.jpg'
+      img: 'images/kreator.png'
     },
     {
       name: 'lamb-of-god',
-      img: 'images/lambofgod.jpg'
+      img: 'images/lambofgod.png'
     },
     {
       name: 'metallica',
@@ -19,11 +19,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'slayer',
-      img: 'images/slayer.jpg'
+      img: 'images/slayer.png'
     },
     {
       name: 'testament',
-      img: 'images/testament.jpg'
+      img: 'images/testament.png'
     },
     {
       name: 'anthrax',
@@ -31,11 +31,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'kreator',
-      img: 'images/kreator.jpg'
+      img: 'images/kreator.png'
     },
     {
       name: 'lamb-of-god',
-      img: 'images/lambofgod.jpg'
+      img: 'images/lambofgod.png'
     },
     {
       name: 'metallica',
@@ -43,11 +43,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'slayer',
-      img: 'images/slayer.jpg'
+      img: 'images/slayer.png'
     },
     {
       name: 'testament',
-      img: 'images/testament.jpg'
+      img: 'images/testament.png'
     }    
   ]
 
