@@ -22,6 +22,18 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/slayer.png'
     },
     {
+      name: 'sepultura',
+      img: 'images/sepultura.png'
+    },
+    {
+      name: 'slipknot',
+      img: 'images/slipknot.png'
+    },
+    {
+      name: 'system-of-a-down',
+      img: 'images/systemofadown.png'
+    },
+    {
       name: 'testament',
       img: 'images/testament.png'
     },
@@ -44,6 +56,18 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'slayer',
       img: 'images/slayer.png'
+    },
+    {
+      name: 'sepultura',
+      img: 'images/sepultura.png'
+    },
+    {
+      name: 'slipknot',
+      img: 'images/slipknot.png'
+    },
+    {
+      name: 'system-of-a-down',
+      img: 'images/systemofadown.png'
     },
     {
       name: 'testament',
@@ -86,7 +110,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     //verificar combinação se click em imagens diferentes
     else if (cardsChosen[0] === cardsChosen[1]) {
-      alert('Você encontrou uma combinação')
       cards[optionOneId].setAttribute('src', 'images/checkBlack.png')
       cards[optionTwoId].setAttribute('src', 'images/checkBlack.png')
       cards[optionOneId].removeEventListener('click', flipCard)
@@ -95,7 +118,6 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
       cards[optionOneId].setAttribute('src', 'images/boardBlack.png')
       cards[optionTwoId].setAttribute('src', 'images/boardBlack.png')
-      alert('Errou, tente novamente')
     }
     cardsChosen = []
     cardsChosenId = []

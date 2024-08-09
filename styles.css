@@ -1,6 +1,6 @@
 @media(min-width: 80px){
   body{
-    background-image: url(images/Background-White-Small.jpg);
+    background-image: url(images/punk-background.jpg);
   }  
   h3{
     text-align: center;
@@ -9,8 +9,7 @@
     margin: auto;
     display: block;
     flex-wrap: wrap;
-    width: 400px;
-    height: 300px;
+    height: 75%;
     justify-content: center;
     align-items: center;
   }
@@ -18,7 +17,7 @@
     background-color: black;
     justify-content: center;
     text-align: center;
-    font-size: large;
+    font-size: small;
     width: 50%;
     margin: auto;
   }
@@ -29,8 +28,8 @@
 }
 @media(min-width: 577px){
   body{
-    background-image: url(images/Background-White.jpg);
-  }
+    background-image: url(images/punk-background.jpg);
+  }  
   h3{
     text-align: center;
   }
@@ -56,8 +55,8 @@
 }
 @media(min-width: 768px){
   body{
-    background-image: url(images/Background-White.jpg);
-  }
+    background-image: url(images/punk-background.jpg);
+  }  
   h3{
     text-align: center;
   }
@@ -66,7 +65,7 @@
     margin-top: 10%;
     display: flex;
     flex-wrap: wrap;
-    width: 400px;
+    width: 50%;
     height: 300px;
     justify-content: center;
   }
@@ -84,8 +83,8 @@
 }
 @media(min-width: 992px){
   body{
-    background-image: url(images/Background-White.jpg);
-  }
+    background-image: url(images/punk-background.jpg);
+  }  
   h3{
     text-align: center;
   }
@@ -112,18 +111,16 @@
 }
 @media(min-width: 1200px){
   body{
-    background-image: url(images/Background-White.jpg);
+    background-image: url(images/punk-background.jpg);
   }
   h3{
     text-align: center;
   }
   .board {
     margin: auto;
-    margin-top: 4%;
     display: flex;
     flex-wrap: wrap;
-    width: 400px;
-    height: 300px;
+    width: 50%;
     justify-content: center;
   }
   .background{
