@@ -17,12 +17,14 @@
     justify-content: center;
   }
   .background{
-    background-color: black;
     justify-content: center;
     text-align: center;
-    font-size: small;
-    width: 50%;
+    font-size: medium;
+    width: 60%;
     margin: auto;
+    display: flex;
+    padding-top: 20%;
+    padding-bottom: 15%;
   }
   .background h3{
     color: white;
