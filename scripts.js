@@ -2,53 +2,61 @@ document.addEventListener('DOMContentLoaded', () => {
   //opções de cartas
   const cards = [
     {
-      name: 'android',
-      img: 'images/android.png'
+      name: 'anthrax',
+      img: 'images/anthrax.png'
     },
     {
-      name: 'chrome',
-      img: 'images/chrome.png'
+      name: 'kreator',
+      img: 'images/kreator.jpg'
     },
     {
-      name: 'git',
-      img: 'images/git.png'
+      name: 'lamb-of-god',
+      img: 'images/lambofgod.jpg'
     },
     {
-      name: 'stackoverflow',
-      img: 'images/stackoverflow.png'
+      name: 'metallica',
+      img: 'images/metallica.png'
     },
     {
-      name: 'linux',
-      img: 'images/linux.png'
+      name: 'sepultura',
+      img: 'images/sepultura.jpg'
     },
     {
-      name: 'github',
-      img: 'images/github.png'
+      name: 'slayer',
+      img: 'images/slayer.jpg'
     },
     {
-      name: 'android',
-      img: 'images/android.png'
+      name: 'testament',
+      img: 'images/Testament.jpg'
     },
     {
-      name: 'chrome',
-      img: 'images/chrome.png'
+      name: 'anthrax',
+      img: 'images/anthrax.png'
     },
     {
-      name: 'git',
-      img: 'images/git.png'
+      name: 'kreator',
+      img: 'images/kreator.jpg'
     },
     {
-      name: 'stackoverflow',
-      img: 'images/stackoverflow.png'
+      name: 'lamb-of-god',
+      img: 'images/lambofgod.jpg'
     },
     {
-      name: 'linux',
-      img: 'images/linux.png'
+      name: 'metallica',
+      img: 'images/metallica.png'
     },
     {
-      name: 'github',
-      img: 'images/github.png'
-    }
+      name: 'sepultura',
+      img: 'images/sepultura.jpg'
+    },
+    {
+      name: 'slayer',
+      img: 'images/slayer.jpg'
+    },
+    {
+      name: 'testament',
+      img: 'images/Testament.jpg'
+    }    
   ]
 
   //embaralhar todas as cartas
