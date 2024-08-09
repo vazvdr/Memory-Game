@@ -9,7 +9,7 @@
     margin: auto;
     display: block;
     flex-wrap: wrap;
-    height: 75%;
+    width: 50%;
     justify-content: center;
     align-items: center;
   }
