@@ -1,4 +1,4 @@
-@media(min-width: 80px){
+@media(max-width: 576px){
   body{
     background-image: url(images/punk-background.jpg);
   }  
@@ -6,13 +6,12 @@
     text-align: center;
   }
   .board {
-    margin: auto;
-    margin-top: 35%;
+    margin: auto auto;
     display: flex;
     flex-wrap: wrap;
-    width: 90%;
+    min-width: 80%;
+    max-width: 100%;
     justify-content: center;
-    align-items: center;
   }
   .background{
     background-color: black;
