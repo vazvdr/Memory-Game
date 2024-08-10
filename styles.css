@@ -53,9 +53,6 @@
     margin: auto;
     padding-bottom: 5%;
   }
-  .background h3{
-    color: white;
-  }
 }
 @media(min-width: 768px){
   body{
@@ -68,7 +65,7 @@
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    width: 50%;
+    width: 70%;
     justify-content: center;
   }
   .background{
@@ -79,6 +76,8 @@
     width: 80%;
     margin-top: 20%;
     margin-bottom: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
   }
 }
 @media(min-width: 992px){
@@ -89,25 +88,21 @@
     text-align: center;
   }
   .board {
-    margin: auto;
-    margin-top: 4%;
     display: flex;
     flex-wrap: wrap;
-    width: 400px;
-    height: 300px;
+    width: 80%;
     justify-content: center;
   }
   .background{
-    background-color: black;
+    background-color: rgb(255, 123, 0);
     justify-content: center;
     text-align: center;
-    font-size: large;
-    width: 20%;
-    margin: auto;
+    font-size: xx-large;
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    padding-top: 5%;
     padding-bottom: 5%;
-  }
-  .background h3{
-    color: white;
   }
 }
 @media(min-width: 1200px){
