@@ -66,11 +66,9 @@
   }
   .board {
     margin: auto;
-    margin-top: 10%;
     display: flex;
     flex-wrap: wrap;
-    width: 50%;
-    height: 300px;
+    width: 100%;
     justify-content: center;
   }
   .background{
@@ -78,12 +76,8 @@
     justify-content: center;
     text-align: center;
     font-size: x-large;
-    width: 40%;
-    margin: auto;
-    padding-bottom: 5%;
-  }
-  .background h3{
-    color: white;
+    width: 100%;
+    margin-bottom: 15%;
   }
 }
 @media(min-width: 992px){
