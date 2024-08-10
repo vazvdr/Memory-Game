@@ -18,6 +18,18 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/metallica.png'
     },
     {
+      name: 'motorhead',
+      img: 'images/motorhead.png'
+    },
+    {
+      name: 'rolling-stones',
+      img: 'images/rolling-stones.png'
+    },
+    {
+      name: 'slash',
+      img: 'images/slash.png'
+    },  
+    {
       name: 'slayer',
       img: 'images/slayer.png'
     },
@@ -52,6 +64,18 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: 'metallica',
       img: 'images/metallica.png'
+    },
+    {
+      name: 'motorhead',
+      img: 'images/motorhead.png'
+    },
+    {
+      name: 'rolling-stones',
+      img: 'images/rolling-stones.png'
+    },
+    {
+      name: 'slash',
+      img: 'images/slash.png'
     },
     {
       name: 'slayer',
