@@ -22,8 +22,7 @@
     color: white;
     justify-content: center;
     text-align: center;
-    font-size: medium;
-    
+    font-size: medium;    
     margin: auto;
     display: flex;
     padding-top: 2%;
@@ -36,7 +35,7 @@
 }
 @media(min-width: 577px){
   body{
-    background-image: url(images/punk-background.jpg);
+    background-image: url(images/punk-background-small.jpg);
   }  
   h3{
     text-align: center;
@@ -50,12 +49,13 @@
     height: 300px;
   }
   .background{
-    background-color: black;
+    background-color: rgb(255, 0, 0);
     justify-content: center;
     text-align: center;
-    font-size: large;
+    font-size: x-large;
     width: 50%;
     margin: auto;
+    padding-bottom: 5%;
   }
   .background h3{
     color: white;
@@ -130,19 +130,19 @@
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    width: 45%;
+    width: 40%;
     justify-content: center;
   }
   .background{
     background-color: rgb(255, 0, 0);
     justify-content: center;
     text-align: center;
-    font-size: large;
     width: 20%;
     margin: auto;
-    padding-bottom: 5%;
+    margin-bottom: 5%;
   }
   .background h3{
     color: white;
+    font-size: xx-large;
   }
 }
