@@ -56,7 +56,7 @@
 }
 @media(min-width: 768px){
   body{
-    background-image: url(images/punk-background.jpg);
+    background-image: url(images/punk-background-medium.jpg);
   }  
   h3{
     text-align: center;
@@ -65,11 +65,11 @@
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    width: 80%;
+    width: 90%;
     justify-content: center;
   }
   .background{
-    background-color: rgb(255, 106, 0);
+    background-color: rgb(238, 255, 0);
     justify-content: center;
     text-align: center;
     font-size: xx-large;
