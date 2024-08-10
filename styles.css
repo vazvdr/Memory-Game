@@ -1,6 +1,6 @@
 @media(max-width: 576px){
   body{
-    background-image: url(images/punk-background-small.jpg);
+    background-image: url(images/punk-background-very-small.jpg);
     background-size: cover;
     display: block;
     background-position: center;
@@ -35,7 +35,7 @@
 }
 @media(min-width: 577px){
   body{
-    background-image: url(images/punk-background-small.jpg);
+    background-image: url(images/punk-background-very-small.jpg);
   }  
   h3{
     text-align: center;
@@ -63,7 +63,7 @@
 }
 @media(min-width: 768px){
   body{
-    background-image: url(images/punk-background.jpg);
+    background-image: url(images/punk-background-very-small.jpg);
   }  
   h3{
     text-align: center;
@@ -121,7 +121,7 @@
 }
 @media(min-width: 1200px){
   body{
-    background-image: url(images/punk-background.jpg);
+    background-image: url(images/punk-background-very-small.jpg);
   }
   h3{
     text-align: center;
@@ -130,16 +130,16 @@
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    width: 40%;
+    width: 50%;
     justify-content: center;
   }
   .background{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(136, 0, 255);
     justify-content: center;
     text-align: center;
-    width: 20%;
+    width: 30%;
     margin: auto;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
   }
   .background h3{
     color: white;
