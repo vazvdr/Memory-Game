@@ -72,12 +72,12 @@
     justify-content: center;
   }
   .background{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 0);
     justify-content: center;
     text-align: center;
     font-size: xx-large;
-    width: 50%;
-    margin-top: 10%;
+    width: 80%;
+    margin-top: 20%;
     margin-bottom: 20%;
   }
 }
